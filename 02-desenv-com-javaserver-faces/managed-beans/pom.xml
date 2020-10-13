@@ -15,7 +15,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <java.version>1.8</java.version>
     <maven.version>3.5</maven.version>
-    <junit.version>4.11</junit.version>
+    <junit.version>4.13.1</junit.version>
     <javax.servlet-api.version>4.0.0</javax.servlet-api.version>
     <javax.faces.version>2.3.9</javax.faces.version>
   </properties>
